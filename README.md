@@ -1,1 +1,2 @@
-# C20-Additional-BounceOff
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
